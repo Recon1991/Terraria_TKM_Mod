@@ -29,3 +29,6 @@ NOTE:  It would be nice to re-label the code since most of it doesn't make any
 sense.  It may take awhile but it will be very benificial to us all in the 
 future.
 
+To compile code make sure that you download and put the current build in the 
+project folder under bin/release.  If you don't do this the game won't compile
+and play.
