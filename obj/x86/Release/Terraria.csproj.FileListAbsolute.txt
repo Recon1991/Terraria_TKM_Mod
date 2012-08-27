@@ -1,0 +1,10 @@
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\bin\Release\Terraria.exe
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\bin\Release\Terraria.pdb
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\obj\x86\Release\Terraria.exe
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\obj\x86\Release\Terraria.pdb
+C:\Users\Recon\Desktop\Terraria1.1.1mod\bin\Release\Terraria.exe
+C:\Users\Recon\Desktop\Terraria1.1.1mod\bin\Release\Terraria.pdb
+C:\Users\Recon\Desktop\Terraria1.1.1mod\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Recon\Desktop\Terraria1.1.1mod\obj\x86\Release\Terraria.exe
+C:\Users\Recon\Desktop\Terraria1.1.1mod\obj\x86\Release\Terraria.pdb

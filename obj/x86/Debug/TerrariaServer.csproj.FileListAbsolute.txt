@@ -1,0 +1,5 @@
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\bin\Debug\TerrariaServer.exe
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\bin\Debug\TerrariaServer.pdb
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\obj\x86\Debug\TerrariaServer.exe
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\obj\x86\Debug\TerrariaServer.pdb

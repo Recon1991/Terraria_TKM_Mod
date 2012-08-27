@@ -1,0 +1,12 @@
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\bin\Release\TerrariaServer.exe
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\bin\Release\TerrariaServer.pdb
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\obj\x86\Release\TerrariaServer.exe
+C:\Users\Teddy\Documents\Reflector\Disassembler\Terraria2\obj\x86\Release\TerrariaServer.pdb
+C:\Users\Steve\Desktop\Terraria1.1.1mod\obj\x86\Release\TerrariaServer.exe
+C:\Users\Steve\Desktop\Terraria1.1.1mod\obj\x86\Release\TerrariaServer.pdb
+C:\Users\Recon\Desktop\Terraria1.1.1mod\obj\x86\Release\TerrariaServer.exe
+C:\Users\Recon\Desktop\Terraria1.1.1mod\obj\x86\Release\TerrariaServer.pdb
+C:\Users\Recon\Desktop\Terraria1.1.1mod\bin\Release\TerrariaServer.exe
+C:\Users\Recon\Desktop\Terraria1.1.1mod\bin\Release\TerrariaServer.pdb
+C:\Users\Recon\Desktop\Terraria1.1.1mod\obj\x86\Release\ResolveAssemblyReference.cache
