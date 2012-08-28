@@ -21,6 +21,7 @@ Third, When modifying/editing the project, please make sure you comment on what
 you are doing as it helps when other developers access the project.  
 
 
+--------------------------------------------
 
 Thats all for the guidelines, have fun and mod Terraria!
 
